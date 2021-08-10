@@ -1,19 +1,20 @@
-Review of books from the dataset   Goodreads-books 
-
-Here are the instruction if anyone need to understand the flow of this reprosetory 
-
-There in the repo you will find PLOTS_R which means all plottings in Rstudio using R code and lybraries.
-plots_python is similarly all plootings of data in Jupytor Notebook using Python lybraries 
-Mahendra_nandi_P   and Mahendra_nandi_R   here P means pyhton and R means Rstudio 
-so .ipynb files are created Jupytor Ntebook
-and .R files are created in Rstudio
-You will find the books.csv file which is the required file for data and other 3  .csv files are of no use here though . 
-The final reports are the .pdf and .pptx files . So you will eventually get every thing inside it.
-
-- **NOTE**: I have perhaps changed the books.csv file mannually a little bit so the modified file naming booksP.csv will be uploaded here too. And I have collected the data from kuggle. [HERE YOU can find IT](https://www.kaggle.com/jealousleopard/goodreadsbooks)
+# Review of books from the dataset   Goodreads-books 
+![books](Images/good-reads.jpg)
+Reading improves memory and cognitive ability — which means its a healthy habit that can help kids in and outside the classroom. Along with that improved brain power comes an improved vocabulary. 
 
 
-# About the dataset:
+```
+“Come to the book as you would come to an unexplored land.
+Come without a map. Explore it and draw your own map.” 
+                                                                                          – Stephen King 
+```
+```
+“The only thing that you absolutely have to know, is the location of the library.” 
+                                                                                          – Albert Einstein
+```
+So, I don't feel I need to give a long talk to convince you the relevance of the project or problem. Reading books are compulsory. But now a days soft copy of many books are freely available. So, publishers have to have the updated information about the market, about the demand and choice. Here by this dataset one can draw some meaningful inferences from it which might progress the publishers economic growth. 
+
+# About the [dataset](https://www.kaggle.com/jealousleopard/goodreadsbooks):
 # 
 
 ![example iamge](Images/readB3.png)
@@ -173,11 +174,25 @@ different number of pages
 decreases for all publishers
 
 
+# 
+# About this repo: (How to run the files):
+# 
+Here is the short instruction to understand the flow of this reprosetory 
+
+There in the repo you will find PLOTS_R which means all plottings in Rstudio using R code and lybraries.
+plots_python is similarly all plootings of data in Jupytor Notebook using Python lybraries 
+Mahendra_nandi_P   and Mahendra_nandi_R   here P means pyhton and R means Rstudio 
+so .ipynb files are created Jupytor Ntebook
+and .R files are created in Rstudio
+You will find the books.csv file which is the required file for data and other 3  .csv files are of no use here though . 
+The final reports are the .pdf and .pptx files . So you will eventually get every thing inside it.
+
+- **NOTE**: I have perhaps changed the books.csv file mannually a little bit so the modified file naming booksP.csv will be uploaded here too. And I have collected the data from kuggle. [HERE YOU can find IT](https://www.kaggle.com/jealousleopard/goodreadsbooks)
 
 
 
 
-
+# 
 # Some sample Visuals:
 # Visualization using R:
 # 
