@@ -12,7 +12,8 @@ The final reports are the .pdf and .pptx files . So you will eventually get ever
 
 - **NOTE**: I have perhaps changed the books.csv file mannually a little bit so the modified file naming booksP.csv will be uploaded here too. And I have collected the data from kuggle. [HERE YOU can find IT](https://www.kaggle.com/jealousleopard/goodreadsbooks)
 
-## Some Visuals:
+## Some sample Visuals:
+# Visualization using R:
 # 
 - [x] Here average rating is shown for diferent languages used in the book.1
 ![example iamge](PLOTS_R/fig3.png)
@@ -24,8 +25,23 @@ The final reports are the .pdf and .pptx files . So you will eventually get ever
 ![example iamge](PLOTS_R/fig2c.png)
 - [x] Here average rating is shown for diferent languages used in the book.5
 ![example iamge](PLOTS_R/fig9b.png)
-
 # 
+# Visualization using PYTHON:
+# 
+
+- [x] Here average rating is shown for diferent languages used in the book.77
+![example iamge](plots_python/u6.png)
+
+- [x] Here average rating is shown for diferent languages used in the book.55
+![example iamge](plots_python/u11.png)
+
+- [x] Here average rating is shown for diferent languages used in the book.6
+![example iamge](plots_python/index.png)
+
+- [x] Here average rating is shown for diferent languages used in the book.7
+![example iamge](plots_python/index1.png)
+
+
 - [x] Here average rating is shown for diferent languages used in the book.1
 ![example iamge](plots_python/b1.png)
 
@@ -40,25 +56,11 @@ The final reports are the .pdf and .pptx files . So you will eventually get ever
 - [x] Here average rating is shown for diferent languages used in the book.4
 ![example iamge](plots_python/b9.png)
 
-- [x] Here average rating is shown for diferent languages used in the book.5
-![example iamge](plots_python/b11.png)
-
-
-- [x] Here average rating is shown for diferent languages used in the book.6
-![example iamge](plots_python/index.png)
-
-- [x] Here average rating is shown for diferent languages used in the book.7
-![example iamge](plots_python/index1.png)
-
-
 - [x] Here average rating is shown for diferent languages used in the book.8
 ![example iamge](plots_python/m12.png)
 
-- [x] Here average rating is shown for diferent languages used in the book.9
-![example iamge](plots_python/m14.png)
-
-- [x] Here average rating is shown for diferent languages used in the book.0
-![example iamge](plots_python/m15.png)
+- [x] Here average rating is shown for diferent languages used in the book.33
+![example iamge](plots_python/m7.png)
 
 - [x] Here average rating is shown for diferent languages used in the book.11
 ![example iamge](plots_python/m2.png)
@@ -66,21 +68,38 @@ The final reports are the .pdf and .pptx files . So you will eventually get ever
 - [x] Here average rating is shown for diferent languages used in the book.22
 ![example iamge](plots_python/m5.png)
 
+- [x] Here average rating is shown for diferent languages used in the book.66
+![example iamge](plots_python/u71.png)
 
-- [x] Here average rating is shown for diferent languages used in the book.33
-![example iamge](plots_python/m7.png)
+- [x] Here average rating is shown for diferent languages used in the book.9
+![example iamge](plots_python/m14.png)
+
+- [x] Here average rating is shown for diferent languages used in the book.0
+![example iamge](plots_python/m15.png)
 
 - [x] Here average rating is shown for diferent languages used in the book.44
 ![example iamge](plots_python/m9.png)
 
-- [x] Here average rating is shown for diferent languages used in the book.55
-![example iamge](plots_python/u11.png)
+- [x] Here average rating is shown for diferent languages used in the book.5
+![example iamge](plots_python/b11.png)
 
-- [x] Here average rating is shown for diferent languages used in the book.66
-![example iamge](plots_python/u71.png)
 
-- [x] Here average rating is shown for diferent languages used in the book.77
-![example iamge](plots_python/u6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
