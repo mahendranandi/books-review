@@ -1,23 +1,16 @@
-books-review     GOOD BOOKS READ 
+Review of books from the dataset   Goodreads-books 
 
 Here are the instruction if anyone need to understand the flow of this reprosetory 
 
 There in the repo you will find PLOTS_R which means all plottings in Rstudio using R code and lybraries.
-
 plots_python is similarly all plootings of data in Jupytor Notebook using Python lybraries 
-
 Mahendra_nandi_P   and Mahendra_nandi_R   here P means pyhton and R means Rstudio 
-
 so .ipynb files are created Jupytor Ntebook
 and .R files are created in Rstudio
-
 You will find the books.csv file which is the required file for data and other 3  .csv files are of no use here though . 
+The final reports are the .pdf and .pptx files . So you will eventually get every thing inside it.
 
-## The final reports are the .pdf and .pptx files . So you will eventually get every thing inside it 
-
-
-
-NOTE: I have perhaps changed the books.csv file mannually a little bit so the modified file naming booksP.csv will be uploaded here too. 
+- **NOTE**: I have perhaps changed the books.csv file mannually a little bit so the modified file naming booksP.csv will be uploaded here too. And I have collected the data from kuggle. [HERE YOU GET IT] 
 
 
 The further task is to build a prediction model which will make the work colplete.
@@ -25,6 +18,7 @@ Thank You .
 
 
 If you have any querry about anything please feel free to contact 
-and also for any help..
+and also for any suggestion..
 
 here is my email ID :   mahendranandi.rkma@gmail.com
+My LimkedIn profile : [Mahendra Nandi](https://www.linkedin.com/in/mahendra-nandi-7038b8176/)
